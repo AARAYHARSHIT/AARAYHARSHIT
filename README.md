@@ -109,7 +109,7 @@ AI-powered hospital finder with modern UI, smart search and location-based filte
 
 ![NCC](https://img.shields.io/badge/NCC-C_Certificate-success)
 
-![BCA](https://img.shields.io/badge/BCA-Student-blue)
+![BCA](https://img.shields.io/badge/BCA-Final-Year-blue)
 
 ![Open Source](https://img.shields.io/badge/AZ_900-Learner-orange)
 
@@ -142,6 +142,21 @@ AI-powered hospital finder with modern UI, smart search and location-based filte
 - 📧 Email: harshitpathak19092006@gmail.com
 - 💻 GitHub: https://github.com/AARAYHARSHIT
 
+  ## 🌐 Coding Profiles
+
+- 💻 GitHub
+- 💼 LinkedIn
+- ☁ Google Cloud Skills Boost
+- 🏆 HackerRank
+- ⚡ LeetCode
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/AARAYHARSHIT/AARAYHARSHIT/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
+
+---
+
+⭐ Thanks for visiting my profile!
+
+*"Building software, one commit at a time."*
