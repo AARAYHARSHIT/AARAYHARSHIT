@@ -38,12 +38,31 @@
 - 🤝 Open to internships and open-source contributions
 
 ---
-## 💻 Tech Stack
+## 🛠 Technical Stack
 
+### 💻 Languages
 <p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,cs" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,docker,gcp" />
+### 🎨 Frontend
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+</p>
 
+### ⚙ Backend
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet" />
+</p>
+
+### 🗄 Database
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### ☁ Cloud & DevOps
+<p align="center">
+<img src="https://skillicons.dev/icons?i=gcp,docker,git,github,vscode" />
 </p>
 
 ## 📊 GitHub Stats
