@@ -70,9 +70,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AARAYHARSHIT&theme=tokyo-night"/>
 </p>
 
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AARAYHARSHIT&theme=tokyo-night"/>
 
 ---
 
