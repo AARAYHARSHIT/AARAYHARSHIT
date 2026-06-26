@@ -107,23 +107,24 @@ AI-powered hospital finder with modern UI, smart search and location-based filte
 
 ### 🎵 Musico
 
-Modern music streaming platform with playlists, authentication and responsive UI.
+Modern music streaming platform built with Next.js and React, featuring YouTube-powered streaming, playlists, and a responsive UI.
 
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/YouTube_API-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-Deployed-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 
-✨ Features
+✨ **Features**
 
-- 🎵 Stream music
-- ❤️ Like & manage playlists
-- 🔍 Powerful search
-- 🔐 JWT Authentication
-- 📱 Responsive UI
-- 🎨 Modern design
+- 🎵 YouTube-powered music streaming
+- 🔍 Smart song & artist search
+- ❤️ Playlist management
+- 📱 Fully responsive interface
+- ⚡ Fast Next.js performance
+- ☁️ Deployed on Vercel
 
-🔗 **Live:** *(Coming Soon)*
+🔗 **Live:** [https://musico-ashen.vercel.app]
 
 📂 **Repository:** https://github.com/AARAYHARSHIT/Musico
 ---
