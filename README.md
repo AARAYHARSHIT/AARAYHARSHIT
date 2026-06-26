@@ -136,16 +136,12 @@ AI-powered hospital finder with modern UI, smart search and location-based filte
 
 ---
 
-## 🥇 Achievements
+## 🏅 Achievements
 
-![NCC](https://img.shields.io/badge/NCC-C_Certificate-success)
-
-![BCA](https://img.shields.io/badge/BCA-Final-Year-blue)
-
-![Open Source](https://img.shields.io/badge/AZ_900-Learner-orange)
-
-![Oracle](https://img.shields.io/badge/OCI-Certified-red)
-
+![NCC C](https://img.shields.io/badge/NCC-C_Certificate-brightgreen?style=for-the-badge)
+![BCA](https://img.shields.io/badge/BCA-Final_Year-blue?style=for-the-badge)
+![AZ-900](https://img.shields.io/badge/AZ--900-Learner-orange?style=for-the-badge)
+![OCI](https://img.shields.io/badge/Oracle-OCI_Certified-red?style=for-the-badge&logo=oracle)
 ## 🌱 Currently Learning
 
 - Full Stack Development (MERN)
