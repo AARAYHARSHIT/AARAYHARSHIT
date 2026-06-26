@@ -109,18 +109,54 @@ AI-powered hospital finder with modern UI, smart search and location-based filte
 
 ## 🏆 Certifications
 
+<table>
+<tr>
+
+<td valign="top" width="33%">
+
+### ☁️ Cloud
+
 - ✅ Oracle OCI AI Foundations Associate
-- 🎓 HP LIFE – Cybersecurity for Beginners
-- ☁️ Google Cloud 
+- ☁️ Google Cloud Skills Boost
+- 🟠 AWS AI Practitioner Scholar
+- 🚀 AWS Cloud Essentials *(Ongoing)*
+
+</td>
+
+<td valign="top" width="33%">
+
+### 🤖 AI & Machine Learning
+
 - 🚀 Microsoft AI Skills
-- Azure AI Essentials By Microsoft
-- DBMS & SQL By IBM
-- AWS AI Practitioner Scholar
-- Qualcomm Ai Upskilling
-- Python and Sql for Data Science By Scaler
-- AI Skills Fest 2026 Badge by Microsoft
-- IBM Skillsbuild Web Development Fundamentals
-- AWS Cloud Essentails(Ongoing)
+- 🧠 AI Skills Fest 2026 Badge
+- 🔷 Azure AI Essentials
+- 📱 Qualcomm AI Upskilling
+
+</td>
+
+<td valign="top" width="33%">
+
+### 💻 Software Development
+
+- 🌐 IBM SkillBuild Web Development Fundamentals
+- 🗄️ DBMS & SQL by IBM
+- 🐍 Python & SQL for Data Science (Scaler)
+- 🛡️ HP LIFE – Cybersecurity for Beginners
+
+</td>
+
+</tr>
+</table>
+
+---
+
+### 🎯 Currently Pursuing
+
+| Certification | Status |
+|---------------|--------|
+| AWS Cloud Essentials | 🟡 In Progress |
+| Google Cloud Learning Path | 🟡 Ongoing |
+| Full Stack Development | 🟡 Active |
 
 ---
 
