@@ -109,54 +109,30 @@ AI-powered hospital finder with modern UI, smart search and location-based filte
 
 ## 🏆 Certifications
 
-<table>
-<tr>
-
-<td valign="top" width="33%">
-
 ### ☁️ Cloud
 
-- ✅ Oracle OCI AI Foundations Associate
-- ☁️ Google Cloud Skills Boost
-- 🟠 AWS AI Practitioner Scholar
-- 🚀 AWS Cloud Essentials *(Ongoing)*
-
-</td>
-
-<td valign="top" width="33%">
-
-### 🤖 AI & Machine Learning
-
-- 🚀 Microsoft AI Skills
-- 🧠 AI Skills Fest 2026 Badge
-- 🔷 Azure AI Essentials
-- 📱 Qualcomm AI Upskilling
-
-</td>
-
-<td valign="top" width="33%">
-
-### 💻 Software Development
-
-- 🌐 IBM SkillBuild Web Development Fundamentals
-- 🗄️ DBMS & SQL by IBM
-- 🐍 Python & SQL for Data Science (Scaler)
-- 🛡️ HP LIFE – Cybersecurity for Beginners
-
-</td>
-
-</tr>
-</table>
+![Oracle](https://img.shields.io/badge/Oracle-OCI_AI_Foundations-C74634?style=for-the-badge&logo=oracle&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-Learning-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-AI_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Cloud_Essentials_(Ongoing)-232F3E?style=for-the-badge&logo=amazonaws)
 
 ---
 
-### 🎯 Currently Pursuing
+### 🤖 Artificial Intelligence
 
-| Certification | Status |
-|---------------|--------|
-| AWS Cloud Essentials | 🟡 In Progress |
-| Google Cloud Learning Path | 🟡 Ongoing |
-| Full Stack Development | 🟡 Active |
+![Microsoft](https://img.shields.io/badge/Microsoft-AI_Skills-0078D4?style=for-the-badge&logo=microsoft)
+![Azure](https://img.shields.io/badge/Azure-AI_Essentials-0078D4?style=for-the-badge&logo=microsoftazure)
+![Qualcomm](https://img.shields.io/badge/Qualcomm-AI_Upskilling-3253DC?style=for-the-badge)
+![AI Skills Fest](https://img.shields.io/badge/AI_Skills_Fest-2026-00B7C3?style=for-the-badge)
+
+---
+
+### 💻 Software Development
+
+![IBM](https://img.shields.io/badge/IBM-Web_Development-1261FE?style=for-the-badge&logo=ibm)
+![IBM SQL](https://img.shields.io/badge/IBM-DBMS_%26_SQL-1261FE?style=for-the-badge&logo=ibm)
+![Scaler](https://img.shields.io/badge/Scaler-Python_%26_SQL-EA580C?style=for-the-badge)
+![HP LIFE](https://img.shields.io/badge/HP_LIFE-Cybersecurity-0096D6?style=for-the-badge)
 
 ---
 
