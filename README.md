@@ -1,16 +1,25 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**AARAYHARSHIT/AARAYHARSHIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Harshit Pathak
 
-Here are some ideas to get you started:
+### 🚀 BCA Student | Full Stack Developer | Cloud & AI Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+Passionate about building scalable web applications, exploring cloud technologies,
+and continuously improving my software engineering skills.
+</p>
+
+</div>
+
+---
+
+## 💫 About Me
+
+- 🎓 BCA Student
+- 🌱 Currently learning **Full Stack Development**
+- ☁️ Exploring **Google Cloud**
+- 💻 Interested in **Software Engineering**
+- 📚 Learning **DSA, System Design & DevOps**
+- ⚡ Goal: Become a Software Engineer
+
+---
