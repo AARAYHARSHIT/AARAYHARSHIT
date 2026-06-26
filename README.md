@@ -105,6 +105,16 @@ AI-powered hospital finder with modern UI, smart search and location-based filte
 
 ---
 
+## 🥇 Achievements
+
+![NCC](https://img.shields.io/badge/NCC-C_Certificate-success)
+
+![BCA](https://img.shields.io/badge/BCA-Student-blue)
+
+![Open Source](https://img.shields.io/badge/AZ_900-Learner-orange)
+
+![Oracle](https://img.shields.io/badge/OCI-Certified-red)
+
 ## 🌱 Currently Learning
 
 - Full Stack Development (MERN)
