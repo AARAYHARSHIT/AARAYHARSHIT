@@ -15,11 +15,9 @@ and continuously improving my software engineering skills.
 
 ## 💫 About Me
 
-- 🎓 BCA Student
-- 🌱 Currently learning **Full Stack Development**
-- ☁️ Exploring **Google Cloud**
-- 💻 Interested in **Software Engineering**
-- 📚 Learning **DSA, System Design & DevOps**
-- ⚡ Goal: Become a Software Engineer
+- 🎯 Targeting Software Development Engineer (SDE) roles
+- 🚀 Building production-ready full-stack applications
+- 📖 Learning DSA, System Design, Cloud & DevOps
+- 🤝 Open to internships and open-source contributions
 
 ---
