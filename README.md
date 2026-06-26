@@ -42,6 +42,19 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,docker,gcp" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,
+  html,css,react,
+  nodejs,express,mongodb,mysql,
+  git,github,vscode,docker,gcp" />
+
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AARAYHARSHIT&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AARAYHARSHIT&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
