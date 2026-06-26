@@ -75,13 +75,16 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🏥 **MedClear** | Hospital finder with AI-powered search and modern UI | React • Node.js • Express • MongoDB |
-| 🌦️ **Weather Dashboard** | Weather application using OpenWeather API | HTML • CSS • JavaScript |
-| 🔐 **Password Generator** | Secure password generator with customizable options | JavaScript |
-| 🌐 **Personal Portfolio** | Modern responsive portfolio website | React • TypeScript |
+### 🏥 MedClear
+AI-powered hospital finder with modern UI, smart search and location-based filtering.
 
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?logo=express)
+
+🔗 **Live:** *(Coming Soon)*  
+📂 **Repository:** https://github.com/AARAYHARSHIT/MedClear
 
 ---
 
