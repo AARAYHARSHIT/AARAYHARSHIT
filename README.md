@@ -191,6 +191,11 @@ Modern music streaming platform built with Next.js and React, featuring YouTube-
 ![BCA](https://img.shields.io/badge/BCA-Final_Year-blue?style=for-the-badge)
 ![AZ-900](https://img.shields.io/badge/AZ--900-Learner-orange?style=for-the-badge)
 ![OCI](https://img.shields.io/badge/Oracle-OCI_Certified-red?style=for-the-badge&logo=oracle)
+
+
+<p align ="center">
+  <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" width="700"/>
+</p>
 ## 🌱 Currently Learning
 
 - Full Stack Development (MERN)
