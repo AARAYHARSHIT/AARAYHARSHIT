@@ -2,12 +2,7 @@
 
 # Hi 👋, I'm Harshit Pathak
 
-### 🚀 BCA Student | Full Stack Developer | Cloud & AI Enthusiast
-
-<p>
-Passionate about building scalable web applications, exploring cloud technologies,
-and continuously improving my software engineering skills.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;BCA+Student;Cloud+Computing+Learner;AI+%26+Machine+Learning+Enthusiast;Open+Source+Learner" />
 
 </div>
 
