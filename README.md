@@ -62,12 +62,19 @@
 
 </p>
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AARAYHARSHIT&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
-</p>
 
 ## 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AARAYHARSHIT&theme=tokyo-night"/>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🏥 **MedClear** | Hospital finder with AI-powered search and modern UI | React • Node.js • Express • MongoDB |
+| 🌦️ **Weather Dashboard** | Weather application using OpenWeather API | HTML • CSS • JavaScript |
+| 🔐 **Password Generator** | Secure password generator with customizable options | JavaScript |
+| 🌐 **Personal Portfolio** | Modern responsive portfolio website | React • TypeScript |
