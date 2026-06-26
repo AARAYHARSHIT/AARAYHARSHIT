@@ -196,6 +196,7 @@ Modern music streaming platform built with Next.js and React, featuring YouTube-
 <p align ="center">
   <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" width="100%"/>
 </p>
+
 ## 🌱 Currently Learning
 
 - Full Stack Development (MERN)
@@ -222,6 +223,7 @@ Modern music streaming platform built with Next.js and React, featuring YouTube-
 - 💼 LinkedIn: https://linkedin.com/in/harshit-pathak-19092006hp
 - 📧 Email: harshitpathak19092006@gmail.com
 - 💻 GitHub: https://github.com/AARAYHARSHIT
+- Instagram: https://www.instagram.com/harshitpathak19?igsh=MXJydGUwcTVpY3cydA==
 
   ## 🌐 Coding Profiles
 
