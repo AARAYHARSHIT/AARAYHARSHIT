@@ -61,6 +61,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AARAYHARSHIT&theme=tokyonight&hide_border=true"/>
 
 </p>
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
@@ -68,3 +69,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=AARAYHARSHIT&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </p>
+
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AARAYHARSHIT&theme=tokyo-night"/>
