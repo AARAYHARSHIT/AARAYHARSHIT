@@ -89,7 +89,8 @@
 - ☁️ Google Cloud 
 - 🚀 Microsoft AI Skills
 - Azure Fundamentals By Microsoft
-- 
+- DBMS & SQL By IBM
+- AWS AI ML Scholar
 
 ---
 
