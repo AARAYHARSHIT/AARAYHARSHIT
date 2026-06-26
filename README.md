@@ -141,10 +141,18 @@ Modern music streaming platform built with Next.js and React, featuring YouTube-
 - ❤️ Playlist management
 - 📱 Fully responsive interface
 - ⚡ Fast Next.js performance
-- ☁️ Deployed on Vercel
-[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/AARAYHARSHIT/Musico)
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://your-musico-url.vercel.app](https://musico-ashen.vercel.app))
+☁️ **Deployment**
+
+<p>
+<a href="https://musico-ashen.vercel.app">
+<img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/AARAYHARSHIT/Musico">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
 
 ---
 
