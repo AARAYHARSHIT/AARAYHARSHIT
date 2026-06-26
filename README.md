@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Harshit Pathak
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Aspiring+Software+Engineer;OCI+Certified+AI+Fouundations+Associate+;AI+%26+Machine+Learning+Enthusiast;Open+Source+Learner" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Aspiring+Software+Engineer;Oracle Cloud+Infrastructure+Certified+AI+Foundations+Associate+;AI+%26+Machine+Learning+Enthusiast;Open+Source+Learner" />
 
 </div>
 
@@ -42,10 +42,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,
-  html,css,react,
-  nodejs,express,mongodb,mysql,
-  git,github,vscode,docker,gcp" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,docker,gcp" />
 
 </p>
 
@@ -56,5 +53,11 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AARAYHARSHIT&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AARAYHARSHIT&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AARAYHARSHIT&theme=tokyonight&hide_border=true"/>
 
 </p>
