@@ -78,3 +78,40 @@
 | 🌦️ **Weather Dashboard** | Weather application using OpenWeather API | HTML • CSS • JavaScript |
 | 🔐 **Password Generator** | Secure password generator with customizable options | JavaScript |
 | 🌐 **Personal Portfolio** | Modern responsive portfolio website | React • TypeScript |
+
+
+---
+
+## 🏆 Certifications
+
+- ✅ Oracle OCI AI Foundations Associate
+- 🎓 HP LIFE – AI for Beginners
+- ☁️ Google Cloud 
+- 🚀 Microsoft AI Skills
+- Azure Fundamentals By Microsoft
+- 
+
+---
+
+## 🌱 Currently Learning
+
+- Full Stack Development (MERN)
+- Data Structures & Algorithms
+- Google Cloud Platform
+- System Design
+- DevOps & Docker
+- C# With .Net and .ASP
+
+---
+
+## 🎯 2026 Goals
+
+- ✅ Land a Software Development Internship
+- 🚀 Build 10+ production-ready projects
+- 🌍 Contribute to Open Source
+- ☁️ Earn Cloud Certifications
+- 💼 Crack a 15+ LPA Software Engineer role
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AARAYHARSHIT/AARAYHARSHIT/output/github-contribution-grid-snake-dark.svg" />
+</p>
