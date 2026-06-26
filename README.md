@@ -119,7 +119,7 @@
 <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 <a href ="https://medclear-pcph.onrender.com">
-<img src="https://img.shields.io/badge/-orange?style=for-the-badge&logo=LINK"/>
+<img src="https://img.shields.io/badge/Link-orange?style=for-the-badge&logo=LINK"/>
 </a>
 </p>
 
