@@ -112,7 +112,6 @@ Modern music streaming platform built with Next.js and React, featuring YouTube-
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/YouTube_API-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vercel-Deployed-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 
 ✨ **Features**
@@ -123,10 +122,10 @@ Modern music streaming platform built with Next.js and React, featuring YouTube-
 - 📱 Fully responsive interface
 - ⚡ Fast Next.js performance
 - ☁️ Deployed on Vercel
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/AARAYHARSHIT/Musico)
 
-🔗 **Live:** [https://musico-ashen.vercel.app]
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://your-musico-url.vercel.app](https://musico-ashen.vercel.app))
 
-📂 **Repository:** https://github.com/AARAYHARSHIT/Musico
 ---
 
 ## 🏆 Certifications
