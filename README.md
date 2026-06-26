@@ -97,14 +97,35 @@
 ### 🏥 MedClear
 AI-powered hospital finder with modern UI, smart search and location-based filtering.
 
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
-![Node](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?logo=express)
-
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 🔗 **Live:** *(Coming Soon)*  
 📂 **Repository:** https://github.com/AARAYHARSHIT/MedClear
 
+
+### 🎵 Musico
+
+Modern music streaming platform with playlists, authentication and responsive UI.
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+
+✨ Features
+
+- 🎵 Stream music
+- ❤️ Like & manage playlists
+- 🔍 Powerful search
+- 🔐 JWT Authentication
+- 📱 Responsive UI
+- 🎨 Modern design
+
+🔗 **Live:** *(Coming Soon)*
+
+📂 **Repository:** https://github.com/AARAYHARSHIT/Musico
 ---
 
 ## 🏆 Certifications
