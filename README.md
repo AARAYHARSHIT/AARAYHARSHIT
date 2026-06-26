@@ -177,8 +177,13 @@ AI-powered hospital finder with modern UI, smart search and location-based filte
 - 🏆 HackerRank
 - ⚡ LeetCode
 
+## 🐍 Contribution Snake
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AARAYHARSHIT/AARAYHARSHIT/output/github-contribution-grid-snake-dark.svg" />
+
+<img src="https://raw.githubusercontent.com/AARAYHARSHIT/AARAYHARSHIT/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
 </p>
 
 
