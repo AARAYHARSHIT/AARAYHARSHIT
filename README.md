@@ -96,16 +96,33 @@
 
 ### 🏥 MedClear
 
-> AI-powered hospital finder with intelligent search and location filtering.
+> AI-powered hospital finder with intelligent search, smart filtering and location-based hospital discovery.
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 </p>
-🔗 **Live:** *(Coming Soon)*  
-📂 **Repository:** https://github.com/AARAYHARSHIT/MedClear
+
+✨ **Features**
+
+- 🏥 Find hospitals using smart search
+- 📍 Location-based nearby hospital discovery
+- 🔍 Advanced filtering by hospital type & facilities
+- 🤖 AI-powered recommendations
+- 📱 Fully responsive modern UI
+- ⚡ Fast search experience
+
+<p>
+<a href="https://github.com/AARAYHARSHIT/MedClear">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<img src="https://img.shields.io/badge/Live-Demo%20Coming%20Soon-orange?style=for-the-badge"/>
+</p>
+
+---
 
 
 ### 🎵 Musico
