@@ -88,12 +88,17 @@
 ## 🏆 Certifications
 
 - ✅ Oracle OCI AI Foundations Associate
-- 🎓 HP LIFE – AI for Beginners
+- 🎓 HP LIFE – Cybersecurity for Beginners
 - ☁️ Google Cloud 
 - 🚀 Microsoft AI Skills
-- Azure Fundamentals By Microsoft
+- Azure AI Essentials By Microsoft
 - DBMS & SQL By IBM
-- AWS AI ML Scholar
+- AWS AI Practitioner Scholar
+- Qualcomm Ai Upskilling
+- Python and Sql for Data Science By Scaler
+- AI Skills Fest 2026 Badge by Microsoft
+- IBM Skillsbuild Web Development Fundamentals
+- AWS Cloud Essentails(Ongoing)
 
 ---
 
@@ -115,6 +120,14 @@
 - 🌍 Contribute to Open Source
 - ☁️ Earn Cloud Certifications
 - 💼 Crack a 15+ LPA Software Engineer role
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/harshit-pathak-19092006hp
+- 📧 Email: harshitpathak19092006@gmail.com
+- 💻 GitHub: https://github.com/AARAYHARSHIT
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AARAYHARSHIT/AARAYHARSHIT/output/github-contribution-grid-snake-dark.svg" />
