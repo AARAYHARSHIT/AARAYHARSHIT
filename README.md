@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="700" />
+  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="75" />
 </p>
 
 <p align="center">
