@@ -1,6 +1,8 @@
 <h1 align="center">
   Hey there I'm
-  <span style="color:#00BFFF;">Harshit</span>
+  <a href="https://github.com/AARAYHARSHIT">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=38&duration=1&pause=1000&color=00BFFF&center=true&vCenter=true&repeat=false&width=250&lines=Harshit" />
+  </a>
 </h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Aspiring+Software+Engineer;OCI+Certified+AI+Foundations+Associate+;AI+%26+Machine+Learning+Enthusiast;Open+Source+Learner" />
