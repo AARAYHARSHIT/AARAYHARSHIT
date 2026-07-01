@@ -1,21 +1,12 @@
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=42&duration=1&pause=1000&color=00CFFF&center=true&vCenter=true&repeat=false&width=700&height=70&lines=Hey+there+I'm+Harshit"
-    alt="Harshit"
-  />
-  <img
-    src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"
-    width="60"
-    alt="Fox"
-  />
-</p>
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&height=45&lines=Full+Stack+Developer;Aspiring+Software+Engineer;OCI+Certified+AI+Foundations+Associate;AI+%26+Machine+Learning+Enthusiast;Open+Source+Learner"
-    alt="Subtitle"
-  />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=42&duration=1&pause=1000&color=00CFFF&center=true&vCenter=true&repeat=false&width=620&height=70&lines=Hey+there+I'm+Harshit" />
+
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="60"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&height=45&lines=Full+Stack+Developer;Aspiring+Software+Engineer;OCI+Certified+AI+Foundations+Associate;AI+%26+Machine+Learning+Enthusiast;Open+Source+Learner"/>
 
 </div>
 
