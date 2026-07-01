@@ -3,15 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="./assets/fox.gif" width="45" />
+  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="45" />
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&height=40&lines=Full+Stack+Developer;Aspiring+Software+Engineer" />
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&height=40&lines=Full+Stack+Developer"/>
 </p>
 
 ---
