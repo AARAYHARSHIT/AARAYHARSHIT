@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=42&duration=1&pause=1000&color=00CFFF&center=true&vCenter=true&repeat=false&width=650&height=70&lines=Hey+there+I'm+Harshit" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=42&duration=1&pause=1000&color=00CFFF&center=true&vCenter=true&repeat=false&width=650&height=70&lines=Hey+there+I'm+Harshit"/>
+  <img src="./assets/running-fox.gif" width="60" />
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Aspiring+Software+Engineer;OCI+Certified+AI+Foundations+Associate+;AI+%26+Machine+Learning+Enthusiast;Open+Source+Learner" />
