@@ -1,8 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=40&duration=1&pause=1000&color=00CFFF&center=true&vCenter=true&repeat=false&width=540&height=55&lines=Hey+there+I'm+Harshit"/>
-
-  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="52"/>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=42&duration=1&pause=1000&color=00CFFF&center=true&vCenter=true&repeat=false&width=540&height=55&lines=Hey+there+I'm+Harshit"/>
+  <img src="./assets/fox.gif" width="45"/>
+</p>
   <br>
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&height=40&lines=Full+Stack+Developer;Aspiring+Software+Engineer"/>
