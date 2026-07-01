@@ -1,18 +1,14 @@
-<table align="center">
-<tr>
-<td>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=42&duration=1&pause=1000&color=00CFFF&center=true&vCenter=true&repeat=false&width=470&height=55&lines=Hey+there+I'm+Harshit" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=42&duration=1&pause=1000&color=00CFFF&center=true&vCenter=true&repeat=false&width=430&height=55&lines=Hey+there+I'm+Harshit"/>
+<p align="center">
+  <img src="./assets/fox.gif" width="45" />
+</p>
 
-</td>
-
-<td>
-
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="42"/>
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&height=40&lines=Full+Stack+Developer;Aspiring+Software+Engineer" />
+</p>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&height=40&lines=Full+Stack+Developer"/>
