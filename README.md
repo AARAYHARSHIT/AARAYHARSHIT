@@ -186,7 +186,7 @@ Modern music streaming platform built with Next.js and React, featuring YouTube-
 
 ![NCC C](https://img.shields.io/badge/NCC-C_Certificate-brightgreen?style=for-the-badge)
 ![BCA](https://img.shields.io/badge/BCA-Final_Year-blue?style=for-the-badge)
-![VIBECODING](https://img.shields.io/badge/AZ--900-Learner-orange?style=for-the-badge)
+![VIBECODING](https://img.shields.io/badge/VIBECODING-orange?style=for-the-badge)
 ![OCI](https://img.shields.io/badge/Oracle-OCI_Certified-red?style=for-the-badge&logo=oracle)
 
 
